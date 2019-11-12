@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ng-pwa-ttt": {
+      "hosting": {
+        "myapp": [
+          "ng-pwa-ttt"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ng-pwa-ttt"
+  }
+}
